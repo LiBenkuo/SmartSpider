@@ -9,22 +9,25 @@ from xlwt import Workbook
 
 try:
 
+	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=16009890&danyuan=(C1)1&qu=清镇&yszh=2014002"
+	#url = "http://www.gyfc.net.cn/pro_query/FloorList.aspx?yszh=2014002&qu=6"
+
+	# 伪造浏览器请求头
 	headers = {
 		'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7'
 	}
-	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=16009890&danyuan=(C1)1&qu=清镇&yszh=2014002"
-	#url = "http://www.gyfc.net.cn/pro_query/FloorList.aspx?yszh=2014002&qu=6"
 
 	request = urllib2.Request(
 		url = url,
 		headers = headers
 	)
 	response = urllib2.urlopen(request)
-	#print unicode(response.read(), 'gb2312').encode('utf-8')
 
 	html = unicode(response.read(), 'gb2312').encode('utf-8')
 
 	soup = BeautifulSoup(html, 'html.parser')
+
+	# 格式化输出
 	#print soup.prettify()
 
 	book = Workbook(encoding='utf-8')
@@ -34,9 +37,6 @@ try:
 	for saleInfo in soup.find_all('div', class_=re.compile('P0 W[2,3] H0')):
 		roomCode = saleInfo.find('span').string
 
-		#tab = '\t'
-		#roomInfo = tab.join(saleInfo['title'].split())
-
 		columnIndex = 0
 		sheet.write(rowIndex, columnIndex, roomCode)
 		for i in saleInfo['title'].split():
@@ -44,8 +44,8 @@ try:
 			sheet.write(rowIndex, columnIndex, i)
 			
 		rowIndex += 1	
-		#print roomCode, '\t', roomInfo
 
+	# 文件保存
 	book.save('统计信息.xls')
 	book.save(TemporaryFile())
 			
