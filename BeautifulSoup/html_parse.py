@@ -9,8 +9,7 @@ from xlwt import Workbook
 
 try:
 
-	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=16009890&danyuan=(C1)1&qu=清镇&yszh=2014002"
-	#url = "http://www.gyfc.net.cn/pro_query/FloorList.aspx?yszh=2014002&qu=6"
+	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=16009900&danyuan=%u5168%u90e8&qu=%u6e05%u9547&yszh=2014002"
 
 	# 伪造浏览器请求头
 	headers = {
@@ -34,7 +33,12 @@ try:
 	sheet = book.add_sheet('销售信息')
 
 	rowIndex = 0
-	for saleInfo in soup.find_all('div', class_=re.compile('P0 W[2,3] H0')):
+	for saleInfo in soup.find_all('div', class_=re.compile('P0 W[1-9]|10 H0')):
+		# print saleInfo
+
+		if(saleInfo.find('span') == None):
+			continue
+
 		roomCode = saleInfo.find('span').string
 
 		columnIndex = 0
@@ -46,7 +50,7 @@ try:
 		rowIndex += 1	
 
 	# 文件保存
-	book.save('统计信息.xls')
+	book.save('S8地块蓝洋港湾-B2栋全部.xls')
 	book.save(TemporaryFile())
 			
 except urllib2.HTTPError, e:
