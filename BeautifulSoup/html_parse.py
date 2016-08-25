@@ -9,7 +9,7 @@ from xlwt import Workbook
 
 try:
 
-	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=16009900&danyuan=%u5168%u90e8&qu=%u6e05%u9547&yszh=2014002"
+	url = "http://www.gyfc.net.cn/pro_query/index/floorView.aspx?dongID=38395&danyuan=&qu=%B9%F3%D1%F4&yszh=2015120"
 
 	# 伪造浏览器请求头
 	headers = {
@@ -43,6 +43,9 @@ try:
 
 		columnIndex = 0
 		sheet.write(rowIndex, columnIndex, roomCode)
+		#columnIndex += 1
+		#sheet.write(rowIndex, columnIndex, roomCode[2:])
+		
 		for i in saleInfo['title'].split():
 			columnIndex += 1
 			sheet.write(rowIndex, columnIndex, i)
@@ -50,7 +53,7 @@ try:
 		rowIndex += 1	
 
 	# 文件保存
-	book.save('S8地块蓝洋港湾-B2栋全部.xls')
+	book.save('泰祥国际无单元.xls')
 	book.save(TemporaryFile())
 			
 except urllib2.HTTPError, e:
