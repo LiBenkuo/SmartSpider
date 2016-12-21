@@ -1,0 +1,303 @@
+1481879112994	geckodriver	INFO	Listening on 127.0.0.1:54192
+1481879114002	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.98VMWHFSMMe1
+1481879114003	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481879114016	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54201
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481879114604	Marionette	INFO	Listening on port 54201
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481879209858	geckodriver	INFO	Listening on 127.0.0.1:54277
+1481879210867	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.Jrk2COQQJQYI
+1481879210868	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481879210869	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54286
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481879211428	Marionette	INFO	Listening on port 54286
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481879348324	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481880099456	geckodriver	INFO	Listening on 127.0.0.1:54768
+1481880100462	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.iwSVoGa2Xfjs
+1481880100463	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481880100467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54777
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481880100931	Marionette	INFO	Listening on port 54777
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481880339809	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481880534222	geckodriver	INFO	Listening on 127.0.0.1:55027
+1481880535229	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.pBgbGOYNBWiL
+1481880535230	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481880535233	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55037
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481880535668	Marionette	INFO	Listening on port 55037
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481880632289	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481880776636	geckodriver	INFO	Listening on 127.0.0.1:55173
+1481880777644	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.BlgPbO2MkoRr
+1481880777645	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481880777648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55182
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481880778213	Marionette	INFO	Listening on port 55182
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481881010502	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481881189853	geckodriver	INFO	Listening on 127.0.0.1:55337
+1481881190859	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.L7yeHwI2kiQl
+1481881190860	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481881190864	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55346
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481881191310	Marionette	INFO	Listening on port 55346
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481881318226	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481881325078	geckodriver	INFO	Listening on 127.0.0.1:55444
+1481881326084	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.gxzPOAbKx1en
+1481881326085	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481881326089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55454
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481881326542	Marionette	INFO	Listening on port 55454
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481881510265	geckodriver	INFO	Listening on 127.0.0.1:55548
+1481881511272	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.RWVQHU0RsUCk
+1481881511273	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481881511277	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55557
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481881511720	Marionette	INFO	Listening on port 55557
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482283630537	geckodriver	INFO	Listening on 127.0.0.1:52495
+1482283631534	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.Gp6QDFV7pKiN
+1482283631535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482283631561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482283632123	Marionette	INFO	Listening on port 52504
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482284350569	geckodriver	INFO	Listening on 127.0.0.1:52924
+1482284351574	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.mfYzhjSnKMbp
+1482284351575	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482284351579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52933
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482284351998	Marionette	INFO	Listening on port 52933
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482284735638	geckodriver	INFO	Listening on 127.0.0.1:53061
+1482284736647	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.QroxETilaUVa
+1482284736647	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482284736651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53070
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482284737069	Marionette	INFO	Listening on port 53070
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 35ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/vendor/react-redux.js, line 409: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript error: chrome://global/content/viewSource-content.js, line 349: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebNavigation.loadURI]
+JavaScript error: chrome://global/content/viewSource-content.js, line 349: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebNavigation.loadURI]
+1482284966067	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+1482285053095	geckodriver	INFO	Listening on 127.0.0.1:53219
+1482285054101	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.Pw5uHlH9hRFn
+1482285054101	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285054105	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53229
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285054512	Marionette	INFO	Listening on port 53229
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482285448363	geckodriver	INFO	Listening on 127.0.0.1:53453
+1482285449370	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.hwufmcmXgPXf
+1482285449371	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285449374	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53462
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285449790	Marionette	INFO	Listening on port 53462
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482285521108	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 33ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/vendor/react-redux.js, line 409: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482285546769	geckodriver	INFO	Listening on 127.0.0.1:53576
+1482285547779	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.BXNz02o8EvrZ
+1482285547780	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285547784	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53586
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285548265	Marionette	INFO	Listening on port 53586
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/vendor/react-redux.js, line 409: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482285665920	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482285680862	geckodriver	INFO	Listening on 127.0.0.1:53732
+1482285681868	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.8P5kXwLtaJQ8
+1482285681868	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285681872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53742
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285682297	Marionette	INFO	Listening on port 53742
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+1482285798685	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482285827943	geckodriver	INFO	Listening on 127.0.0.1:53863
+1482285828946	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.QXVcBaleUK3y
+1482285828947	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285828950	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53872
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285829376	Marionette	INFO	Listening on port 53872
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+1482285888186	geckodriver	INFO	Listening on 127.0.0.1:53941
+1482285889190	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.athJPUO29YuD
+1482285889191	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482285889194	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53951
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482285889614	Marionette	INFO	Listening on port 53951
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/vendor/react-redux.js, line 409: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482286005832	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482286844369	geckodriver	INFO	Listening on 127.0.0.1:54430
+1482286845374	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.CfggVAW2xnXc
+1482286845375	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482286845379	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54439
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482286845791	Marionette	INFO	Listening on port 54439
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482286883134	geckodriver	INFO	Listening on 127.0.0.1:54500
+1482286884140	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.oa1JB4KFEMzg
+1482286884140	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482286884143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54510
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482286884594	Marionette	INFO	Listening on port 54510
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482286963229	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482286988688	geckodriver	INFO	Listening on 127.0.0.1:54635
+1482286989693	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.JR598digtB8v
+1482286989694	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482286989698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54644
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482286990104	Marionette	INFO	Listening on port 54644
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482287001844	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+1482287107037	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482287539364	geckodriver	INFO	Listening on 127.0.0.1:54980
+1482287540371	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.j1MeHGMCo8dy
+1482287540372	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482287540375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54989
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482287540790	Marionette	INFO	Listening on port 54989
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+1482287606540	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482287614326	geckodriver	INFO	Listening on 127.0.0.1:55063
+1482287615334	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.pxb0FCKcwMF0
+1482287615335	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482287615339	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55072
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482287615774	Marionette	INFO	Listening on port 55072
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+1482287802853	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+1482287820353	geckodriver	INFO	Listening on 127.0.0.1:55173
+1482287821359	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.FxvzfrX6dIVn
+1482287821360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482287821364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55182
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482287821791	Marionette	INFO	Listening on port 55182
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+console.warn: Asynchronous operation was aborted as selection changed.
+1482287923998	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1734:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1671:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1734, column: 1
+1482288118571	geckodriver	INFO	Listening on 127.0.0.1:55413
+1482288119579	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.Vyo3dI2Rl83I
+1482288119580	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482288119583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55422
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482288119998	Marionette	INFO	Listening on port 55422
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+Vector smash protection is enabled.
+1482288276792	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482288282648	geckodriver	INFO	Listening on 127.0.0.1:55662
+1482288283655	mozprofile::profile	INFO	Using profile path /var/folders/sp/shscrwgn2hl14h6759xpnw0h0000gn/T/rust_mozprofile.p46e14ZsNsqk
+1482288283656	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482288283660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55671
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482288284072	Marionette	INFO	Listening on port 55671
+JavaScript warning: https://leetcode.com/static/react-vendor.js, line 5: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1482288386943	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
