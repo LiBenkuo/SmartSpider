@@ -14,12 +14,8 @@ try:
     url = "https://leetcode.com/problemset/algorithms/"
     driver.get(url)
 
-    #select = Select(driver.find_element_by_xpath("//span[@class='row-selector']/select[1]"))
-    #select.select_by_visible_text("all")
-    #time.sleep(10)
-    #select.select_by_index(3)
-    #for option in select.options:
-    #    print option.text
+    select = Select(driver.find_element_by_xpath("//span[@class='row-selector']/select[1]"))
+    select.select_by_index(3)
 
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
@@ -44,6 +40,12 @@ try:
                 sheet1.write(rowNum, colNum, td.find('div').find('a').get('href'))
                 colNum = colNum + 1
             
+                if td.find('div').find('i') is not None:
+                    sheet1.write(rowNum, colNum, 'lock')
+                else:
+                    sheet1.write(rowNum, colNum, 'unlock')
+                colNum = colNum + 1
+                    
         rowNum = rowNum + 1
     
     driver.close()
